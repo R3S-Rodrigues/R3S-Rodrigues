@@ -1,26 +1,23 @@
-- Eu sou Rodrigues
- - Eu gosto de ciência de dados, analista de dados.
+-
+I am Elias Rodrigues Umbar Zimbeti
 
-- Estou a trabalhar em [Otimização de Rotas e Logística no Transporte de Produtos Refinados](https://github.com/R3S-Rodrigues/projeto_reporto)
+Data Engineer in training, with practical experience in ETL, dimensional modelling, and data integration for analytical applications in the energy and oil industry.
 
-- Administração e otimização de banco de dados oracle?
+I am currently developing the [Pipeline_Trends_Anomalies](https://github.com/R3S-Rodrigues/Pipeline_Trends_Anomalies) project, which structures an ETL pipeline for ingesting historical oil production data, integrating it into an analytical Data Warehouse. The project serves as a basis for trend analysis, anomaly detection, and future artificial intelligence applications.
 
-- Pergunte-me sobre ? IT,SQL, BIG DATA?
+Technologies I use:
+- Python (pandas, SQLAlchemy)
+- SQL (MySQL, Oracle, PostgreSQL)
+- Power BI, Excel
+- Dimensional modelling, OLAP, time series
+- AWS (currently learning)
 
-- Como chegar a mim ? rogresao2011?gmail.com
+Interests:
+- Data engineering
+- Analytical infrastructure
+- Route and logistics optimisation
+- Intelligent applications in the energy sector
 
-- IT,DBA,ANALISTA DE DADOS [https://www.linkedin.com/in/elias-rodrigues-simbete-9455baa0](https://www.linkedin.com.com/in/elias-rodrigues-simbete-9455baa0)
-
-- Conectar-se com mim: rogresao2011@gmail.com
-?p align?"left"
-a href-https://linkedin.com/in/https:/www.linkedin.com/in/elias-rodrigues-simbete-9455baa0" target-blank"?img align?center" src?"https://raw.githubusercontent.com/rahuld/Social/linked-in-alt.svg" alt-'https://www.linkedin.com/in/elias-rodrigues-simbete-9455baa0" altura"""30" largura""40" //a
-?/p
-
-?h3 alinhado?"esquerdo"-Languages e Ferramentas: ?/h3?
-?p align?"left" ?a href?"https://aws.amazon.com" target?"_blank" rel?"noreferrer" ?img src?"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt-aws" largura"40" height"""" ?/a ?a href?"https://www.mysql.com/" target-(m)"_blank" rel?"noreferrer" ?img src-"https://raw.githubusercontent.com/devicons/master/icôntico/mysql-original-wordmark.svg" alt?"mysql" width?"40" height""""""40" ?/a "a href"https://www.oracle.com/" target-"_blank" rel?"noreferrer" img src-'https://raw.githubusercontent.com/devicons/master/icons/oracle/oracle-original.svg" alt-oracle""largura""40" altura"""""" ?/a ?a href?https://www.postgresql.org target?"_blank" rel?"noreferrer" img src-"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt-postgresql" width ?/a ?a href?"https://www.python.org" target-"__blank" rel?"noreferrer" img src-https://raw.githubusercontent.com/devicons/deviconcon/master/icons/python/python-original.svg" alt-python" width -"40" height"""" ?/a ?/p
-
-
-<!---
-R3S-Rodrigues/R3S-Rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How to find me:
+- 📧 rogresa2011@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/elias-rodrigues-simbete-9455baa0)-->
