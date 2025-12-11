@@ -1,23 +1,21 @@
--
-I am Elias Rodrigues Umbar Zimbeti
+# Hello, I am Elias Rodrigues Umbar Zimbeti
 
-Data Engineer in training, with practical experience in ETL, dimensional modelling, and data integration for analytical applications in the energy and oil industry.
+**Industrial Data Engineer & IT/Operations Manager**  
+Specialist in **data engineering, governance, and operational indicators** for the energy, telecommunications, and industrial sectors. My work combines **advanced data pipelines (SQL, Python, Airflow, NiFi, Spark, Kafka)** with **team and process management**, ensuring **reliability, traceability and operational impact**.
 
-I am currently developing the [Pipeline_Trends_Anomalies](https://github.com/R3S-Rodrigues/Pipeline_Trends_Anomalies) project, which structures an ETL pipeline for ingesting historical oil production data, integrating it into an analytical Data Warehouse. The project serves as a basis for trend analysis, anomaly detection, and future artificial intelligence applications.
+Currently transitioning to **international coordination and leadership** roles, structuring processes, supervising teams and implementing performance metrics that connect technology to business strategy.
 
-Technologies I use:
-- Python (pandas, SQLAlchemy)
-- SQL (MySQL, Oracle, PostgreSQL)
-- Power BI, Excel
-- Dimensional modelling, OLAP, time series
-- AWS (currently learning)
+**Areas of focus:**
+- Architecture and integration of auditable pipelines  
+- Industrial data governance and compliance  
+- Dashboards and indicators for critical environments  
+- Process structuring and technical team coordination  
+- Audit-ready documentation and projects  
 
-Interests:
-- Data engineering
-- Analytical infrastructure
-- Route and logistics optimisation
-- Intelligent applications in the energy sector
+Seeking opportunities focused on environments that value **practical impact, innovation, and data governance**.
+
 
 How to find me:
 - 📧 rogresa2011@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elias-rodrigues-simbete-9455baa0)-->
+- [Portfólio GitHub](https://github.com/R3S-Rodrigues/Industrial-Data-Lake-Analytics-with-Spark)
