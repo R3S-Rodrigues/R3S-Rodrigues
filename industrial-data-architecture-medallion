@@ -1,5 +1,6 @@
 # Arquitetura Unificada de Dados Industriais: Convergência OT/IT com Gateway IoT e Data Lakehouse Medallion para Analytics em Tempo Real
 
+![Fluxo OT para Arquitetura Medallion Industrial](./Fluxo_OT_para_Arquitetura_Medallion_Industrial.png)
 
 Este repositório contém a documentação completa, especificações de engenharia e roteiros para a implementação de um pipeline de dados industrial alinhado aos conceitos de Indústria 4.0.
 
