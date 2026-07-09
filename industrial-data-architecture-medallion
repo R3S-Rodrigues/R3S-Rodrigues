@@ -1,0 +1,10 @@
+# Arquitetura Unificada de Dados Industriais: Convergência OT/IT com Gateway IoT e Data Lakehouse Medallion para Analytics em Tempo Real
+
+
+Este repositório contém a documentação completa, especificações de engenharia e roteiros para a implementação de um pipeline de dados industrial alinhado aos conceitos de Indústria 4.0.
+
+---
+
+## Estrutura Geral da Solução
+
+O projeto conecta variáveis de dispositivos físicos no chão de fábrica a uma estrutura moderna de Data Lakehouse analítico:
